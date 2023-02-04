@@ -1,6 +1,6 @@
 {
   "name": "flexget",
-  "release": "12.2-RELEASE",
+  "release": "13.1-RELEASE",
   "artifact": "https://github.com/fuji44/iocage-plugin-flexget.git",
   "properties": {
     "boot": "on"
