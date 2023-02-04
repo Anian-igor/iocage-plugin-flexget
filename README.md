@@ -6,7 +6,8 @@ https://flexget.com/
 ## Installation
 
 ```
-sudo iocage fetch -P flexget -n flexget -g https://github.com/fuji44/iocage-fuji44-plugins.git ip4_addr="em0|192.168.0.100/24"
+sudo iocage fetch -P flexget -n flexget -g https://github.com/Anian-igor/iocage-plugin-flexget.git ip4_addr="em0|192.168.0.100/24"
+https://github.com/Anian-igor/iocage-plugin-flexget
 ```
 
 ## Usege
