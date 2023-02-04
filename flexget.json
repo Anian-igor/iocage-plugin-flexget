@@ -6,7 +6,7 @@
     "boot": "on"
   },
   "pkgs": ["ca_root_nss", "python39", "py39-sqlite3"],
-  "packagesite": "hhttp://pkg.freebsd.org/FreeBSD:13:amd64/quarterly",
+  "packagesite": "http://pkg.freebsd.org/FreeBSD:13:amd64/quarterly",
   "fingerprints": {
     "plugin-default": [
       {
