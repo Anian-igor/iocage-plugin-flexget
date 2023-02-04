@@ -1,12 +1,12 @@
 {
   "name": "flexget",
   "release": "13.1-RELEASE",
-  "artifact": "https://github.com/fuji44/iocage-plugin-flexget.git",
+  "artifact": "https://github.com/Anian-igor/iocage-plugin-flexget.git",
   "properties": {
     "boot": "on"
   },
   "pkgs": ["ca_root_nss", "python39", "py39-sqlite3"],
-  "packagesite": "http://pkg.FreeBSD.org/FreeBSD:12:amd64/quarterly",
+  "packagesite": "hhttp://pkg.freebsd.org/FreeBSD:13:amd64/quarterly",
   "fingerprints": {
     "plugin-default": [
       {
